@@ -10,6 +10,7 @@ Before you begin, ensure you have the following installed on your system:
 - Yarn (>= 1.22.x)
 - Docker
 - Git
+- And our permission (Nishant,Samarth,Gokul)
 
 ## Getting Started
 
@@ -71,6 +72,3 @@ Navigate to the apps/web directory and start the WEB server.
 cd apps/web
 yarn dev
 ```
-
-License
-This project is licensed under the MIT License.
